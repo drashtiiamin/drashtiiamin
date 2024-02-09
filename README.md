@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drashtiiamin
 - 👀 I’m interested in data analytics and data scientist
 - 🌱 I’m currently learning master in computer science in california state university fullerton
-- 💞️ I’m looking for summer internship 2023 
+- 💞️ I’m looking for Full time Job Opportunity
 - 📫 my email id: amindrashti14@gmail.com and contact number:- 6577674381
 
 <!---
