@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drashtiiamin
 - 👀 I’m interested in data analytics and data scientist
-- 🌱 I’m currently learning master in computer science in california state university fullerton
+- I graduated from California State University Fullerton with Master degree in Computer Science
 - 💞️ I’m looking for Full time Job Opportunity
 - 📫 my email id: amindrashti14@gmail.com and contact number:- 6577674381
 
